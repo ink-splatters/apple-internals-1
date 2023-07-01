@@ -14,7 +14,7 @@
 			flake = false;
 		};
 		snapshot-header = {
-			url = "https://github.com/apple/darwin-xnu/archive/refs/tags/xnu-6153.141.1.tar.gz";
+			url = "https://github.com/apple-oss-distributions/xnu/archive/refs/tags/xnu-8796.101.5.tar.gz";
 			flake = false;
 		};
 		snap-util = {
